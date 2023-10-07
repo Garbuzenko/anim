@@ -2,6 +2,7 @@
 
 **CI** [![Build status](https://ci.appveyor.com/api/projects/status/i34arg13m7mjxifo?svg=true)](https://ci.appveyor.com/project/garbuzenko/anim)    [GitHub Pages](https://garbuzenko.github.io/anim/)
 
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
